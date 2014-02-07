@@ -1,0 +1,12 @@
+{
+  "authors": [ "Thomas Park" ],
+  "description": "Bower component for bootswatch flatly theme",
+  "homepage": "http://bootswatch.com",
+  "keywords": [ "bootstrap", "bootswatch", "flatly", "flat" ],
+  "license": "https://github.com/thomaspark/bootswatch/blob/gh-pages/LICENSE",
+  "main": "bootstrap.min.css",
+  "name": "flatly",
+  "private": true,
+  "repository": "https://github.com/myopenjournal/flatly",
+  "version": "3.1.0"
+}
